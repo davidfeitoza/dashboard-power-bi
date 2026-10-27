@@ -7,10 +7,10 @@ Página HTML para exibir um dashboard do Power BI em tela cheia, ocupando 100% d
 2. Cole o link no atributo src do iframe.
 3. Abra o arquivo HTML no navegador.
 
-'''
+
 HTML
 <iframe src="SEU_LINK_PUBLICO" allowfullscreen></iframe>
-'''
+
 
 ## Tecnologias
 HTML5
