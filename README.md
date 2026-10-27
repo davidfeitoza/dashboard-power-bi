@@ -13,6 +13,6 @@ HTML
 
 
 ## Tecnologias
-HTML5
-CSS3
-Microsoft Power BI
+- HTML5
+- CSS3
+- Microsoft Power BI
